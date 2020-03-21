@@ -1,4 +1,4 @@
-# CODVI19 registration forms for PC processing
+# COVID19 registration forms for PC processing
 
 Many doctors mentioned on Twitter that they have to manually process the registration of new CODVI19 cases with the Federal Office for Health, BAG on a printed PDF form. This takes time and sending by email is complicated because the completed sheet needs to be scanned before sending. And FAX is really very old-fashioned!
 
