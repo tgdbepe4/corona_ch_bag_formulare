@@ -12,7 +12,7 @@ o german
 o french
 o italian (missing
 
-<em)The file name is codeed to identify the creation date. </em>
+<em>The file name is codeed to identify the creation date. </em>
 
 ## XML files for import and export
 
