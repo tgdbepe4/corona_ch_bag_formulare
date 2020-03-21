@@ -8,9 +8,11 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 
 ## Versions
 
-o german
-o french
-o italian (missing
+<ul>
+<li>german</li>
+<li>french</li>
+<li>italian/li>
+</ul>
 
 <em>The file name is codeed to identify the creation date. </em>
 
