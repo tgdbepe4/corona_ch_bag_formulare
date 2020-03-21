@@ -6,8 +6,13 @@ Some noted that they would suggest and help establish an electronic solution. Bu
 
 This gave me the idea of ​​expanding the PDF files with form fields. This new files can then now be filled in on the PC und sending via e-mail.
 
-## Verions
+## Versions
 
 At the moment only a german verion is available. The file name consist of a date code to identify the creation date.
 
+## XML file for improt and export
+
+### Required: Adobe Acrobat software
+
+With Adobe Acrobat you can easy edit the forms and import and export data to the form. There is a XML file at the reporitory which can be edited and use it to add data to the form.
 
