@@ -9,9 +9,9 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 ## Versions
 
 <ul>
-<li>german</li>
-<li>french</li>
-<li>italian (not present now)</li>
+<li>German</li>
+<li>French</li>
+<li>Italian (not present now)</li>
 </ul>
 
 <em>The file name is coded to identify the creation date of the files. </em>
