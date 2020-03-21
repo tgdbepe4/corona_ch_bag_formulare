@@ -8,7 +8,11 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 
 ## Versions
 
-At the moment only a german verion is available. The file name consist of a date code to identify the creation date.
+o german
+o french
+o italian (missing
+
+The file name is codeed to identify the creation date.
 
 ## XML files for import and export
 
