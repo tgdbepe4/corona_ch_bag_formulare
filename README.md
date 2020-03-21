@@ -5,3 +5,9 @@ Many doctors mentioned on Twitter that they have to manually process the registr
 Some noted that they would suggest and help establish an electronic solution. But that also takes time and needs training in how to use it.
 
 This gave me the idea of ​​expanding the PDF files with form fields. This new files can then now be filled in on the PC und sending via e-mail.
+
+## Verions
+
+At the moment only a german verion is available. The file name consist of a date code to identify the creation date.
+
+
