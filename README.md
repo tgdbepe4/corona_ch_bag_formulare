@@ -14,7 +14,7 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 <li>italian (not present now)</li>
 </ul>
 
-<em>The file name is codeed to identify the creation date of the files. </em>
+<em>The file name is coded to identify the creation date of the files. </em>
 
 ## XML files for import and export
 
