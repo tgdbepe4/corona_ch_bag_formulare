@@ -16,3 +16,7 @@ At the moment only a german verion is available. The file name consist of a date
 
 With Adobe Acrobat you can easy edit the forms and import and export data to the form. There is a XML file at the reporitory which can be edited and use it to add data to the form.
 
+## Comments welcomed
+
+Please comments and make recommendations with open an issue (you can find it on the top) here.
+
