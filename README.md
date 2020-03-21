@@ -10,7 +10,7 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 
 At the moment only a german verion is available. The file name consist of a date code to identify the creation date.
 
-## XML file for improt and export
+## XML files for import and export
 
 ### Required: Adobe Acrobat software
 
