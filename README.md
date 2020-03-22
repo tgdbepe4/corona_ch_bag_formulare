@@ -11,10 +11,17 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 <ul>
 <li>German</li>
 <li>French</li>
-<li>Italian (not present now)</li>
+<li>Italian</li>
 </ul>
 
 <em>The file name is coded to identify the creation date of the files. </em>
+
+## Download
+
+Non IT persons don't like download files from here. For this reason there is an other way to get the PDF documents. Use this link for download, https://www.mycloud.ch/s/S005BE60DADA8A0461682D10365FD646D6A4C25C3AC.
+
+## Feedback
+Any comments, corrections and recommendations can be addressd to mailto:corona@bergi-it-consulting.ch.
 
 ## XML files for import and export
 
