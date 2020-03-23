@@ -8,7 +8,7 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 
 ## Download from similar project (use this now for download!)
 
-There is another very similar ativity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy it from there to make access to the files easier. 
+There is another very similar activity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy it from there to make access to the files easier. 
 
 https://github.com/lakay/COVID-19_PDF-Reporting/wiki/Download-Meldeformulare-f%C3%BCr-Covid-19
 
