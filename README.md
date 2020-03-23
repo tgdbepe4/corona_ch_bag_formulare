@@ -6,16 +6,6 @@ Some noted that they would suggest and help establish an electronic solution. Bu
 
 This gave me the idea of ​​expanding the PDF files with form fields. This new files can then now be filled in on the PC und sending via e-mail.
 
-## Versions
-
-<ul>
-<li>German</li>
-<li>French</li>
-<li>Italian</li>
-</ul>
-
-<em>The file name is coded to identify the creation date of the files. </em>
-
 ## Download from similar project (use this now for download!)
 
 There is an other very similar ativity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy it from there to make access to the files easier. 
