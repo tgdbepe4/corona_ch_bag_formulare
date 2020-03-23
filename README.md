@@ -16,7 +16,13 @@ This gave me the idea of ​​expanding the PDF files with form fields. This ne
 
 <em>The file name is coded to identify the creation date of the files. </em>
 
-## Download
+## Download from similar project (use this now for download!)
+
+There is an other very similar ativity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy it from there to make access to the files easier. 
+
+https://github.com/lakay/COVID-19_PDF-Reporting/wiki/Download-Meldeformulare-f%C3%BCr-Covid-19
+
+## Download from this project
 
 Non IT persons don't like download files from here. For this reason there is an other way to get the PDF documents. Use this link for download, https://www.mycloud.ch/s/S005BE60DADA8A0461682D10365FD646D6A4C25C3AC.
 
