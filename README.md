@@ -17,13 +17,13 @@ https://github.com/lakay/COVID-19_PDF-Reporting/wiki/Download-Meldeformulare-f%C
 Non IT persons don't like download files from here. For this reason there is an other way to get the PDF documents. Use this link for download, https://www.mycloud.ch/s/S005BE60DADA8A0461682D10365FD646D6A4C25C3AC.
 
 ## Feedback
-Any comments, corrections and recommendations can be addressd to mailto:corona@bergi-it-consulting.ch.
+Any comments, corrections and recommendations can be addressed to mailto:corona@bergi-it-consulting.ch.
 
 ## XML files for import and export
 
 ### Required: Adobe Acrobat software
 
-With Adobe Acrobat you can easy edit the forms and import and export data to the form. There is a XML file at the reporitory which can be edited and use it to add data to the form.
+With Adobe Acrobat you can easily edit the forms and import and export data to the form. There is an XML file at the repository which can be edited and use it to add data to the form.
 
 ## Comments welcomed
 
