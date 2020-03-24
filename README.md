@@ -29,7 +29,7 @@ MS Access allows very easy to import such an XML-File into a DB (data base). The
 
 And adding the following PDF data import to the same table.
 
-A report of a feasibility study can you find over the link here, tests/Machbarkeit BAG Meldeformulare mit digialen Formularfeldern.pdf.
+A report of a feasibility study can you find over the link here, https://github.com/tgdbepe4/corona_ch_bag_formulare/blob/master/tests/Machbarkeit%20BAG%20Meldeformulare%20mit%20digialen%20Formularfeldern.docx.
 
 ## Comments welcomed
 
