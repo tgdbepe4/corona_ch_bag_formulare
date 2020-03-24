@@ -12,7 +12,7 @@ Non IT persons don't like download files from here. For this reason there is an 
 
 ## Download from similar project
 
-There is another very similar activity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy their PDF's to here and to the cloud folder to prevent a parallel development. 
+There is another very similar activity, https://github.com/lakay/COVID-19_PDF-Reporting and a download page is available. I copy their PDF's to here and to the cloud folder to prevent a parallel development. And I moved my ones away to the foleder "old".
 
 ## XML files for import and export
 
