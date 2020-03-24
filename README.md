@@ -21,9 +21,15 @@ Any comments, corrections and recommendations can be addressed to mailto:corona@
 
 ## XML files for import and export
 
-### Required: Adobe Acrobat software
+### Required: Adobe Acrobat software and maybe MS Access
 
-With Adobe Acrobat you can easily edit the forms and import and export data to the form. There is an XML file at the repository which can be edited and use it to add data to the form.
+With Adobe Acrobat you can easily edit the forms and import and export data to the form. Best way is over an XML-File. There is an XML file at the repository which can be edited and use it to add data to the form.
+
+MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fiels with bigger content, e.E. remark fields as "Langer Text" instead of "Short Text".
+
+And adding the following PDF data import to the same table.
+
+A report of a feasibility study can you find over the link here.
 
 ## Comments welcomed
 
