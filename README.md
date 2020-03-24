@@ -4,7 +4,7 @@ Many medical doctors mentioned on Twitter that they have to manually process the
 
 Some noted that they would suggest and help establish an electronic solution. But that also takes time and needs training in how to use it.
 
-This gave me the idea of ​​expanding the PDF files with form fields. This new files can then now be filled in on the PC und sending via e-mail.
+This gave me the idea of ​​expanding the PDF files with form fields. These new files can then now be filled in on the PC und sending via e-mail.
 
 ## Download from similar project (use this now for download!)
 
@@ -25,7 +25,7 @@ Any comments, corrections and recommendations can be addressed to mailto:corona@
 
 With Adobe Acrobat you can easily edit the forms and import and export data to the form. Best way is over an XML-File. There is an XML file at the repository which can be edited and use it to add data to the form.
 
-MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fiels with bigger content, e.E. remark fields as "Langer Text" instead of "Short Text".
+MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fiels with bigger content, for example remark fields as "Langer Text" instead of "Short Text".
 
 And adding the following PDF data import to the same table.
 
