@@ -25,7 +25,7 @@ Any comments, corrections and recommendations can be addressed to mailto:corona@
 
 With Adobe Acrobat you can easily edit the forms and import and export data to the form. Best way is over an XML-File. There is an XML file at the repository which can be edited and use it to add data to the form.
 
-MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fiels with bigger content, for example remark fields as "Langer Text" instead of "Short Text".
+MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fields with bigger content, for example remark fields as "Langer Text" instead of "Short Text".
 
 And adding the following PDF data import to the same table.
 
