@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields xmlns:xfdf="http://ns.adobe.com/xfdf-transition/"
+><Blut_Serologie
+>Off</Blut_Serologie
+><Broncho-alveolaere_Lavage
+>Off</Broncho-alveolaere_Lavage
+><E-gene-target
+>Off</E-gene-target
+><ELISA-SARS-CoV-2-IgA
+>Off</ELISA-SARS-CoV-2-IgA
+><ELISA-SARS-CoV-2-IgG
+>Off</ELISA-SARS-CoV-2-IgG
+><ELISA-SARS-CoV-2-IgM
+>Off</ELISA-SARS-CoV-2-IgM
+><Endotracheale_Absaugung
+>Off</Endotracheale_Absaugung
+><IFA-SARS-CoV-2-IgG
+>Off</IFA-SARS-CoV-2-IgG
+><IFA-SARS-CoV-2-IgM
+>Off</IFA-SARS-CoV-2-IgM
+><Mundrachenabstrich
+>Off</Mundrachenabstrich
+><N-gene-target
+>Off</N-gene-target
+><Nasenrachenabstrich
+>Off</Nasenrachenabstrich
+><Neue-Sequenzierungsmethode
+>Off</Neue-Sequenzierungsmethode
+><Patient-in_Geschlecht
+>Off</Patient-in_Geschlecht
+><ProbeanCRIVENAVIinGenfweitergeleitet xfdf:original="Probe an CRIVENAVI in Genf weitergeleitet"
+>Off</ProbeanCRIVENAVIinGenfweitergeleitet
+><RdRp-gene-target
+>Off</RdRp-gene-target
+><SARS-CoV-2-pseudovirus
+>Off</SARS-CoV-2-pseudovirus
+><Sequenz-analog-SARS-CoV-2
+>Off</Sequenz-analog-SARS-CoV-2
+><Sputum
+>Off</Sputum
+><andere
+>Off</andere
+></fields
+>

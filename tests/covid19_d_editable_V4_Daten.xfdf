@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
+><f href="/K/myCloud/QGIS_Projekte_github/corona_ch_bag_formulare/covid19_d_editable_V4.pdf"
+/><fields
+><field name="ARDS"
+><value
+>Off</value
+></field
+><field name="Andere"
+><value
+>Off</value
+></field
+><field name="Andere Symptome"
+><value
+>Off</value
+></field
+><field name="Anderes_Labor"
+><value
+>Off</value
+></field
+><field name="Atembeschwerden"
+><value
+>Off</value
+></field
+><field name="Atemwegserkrankung"
+><value
+>Off</value
+></field
+><field name="Ausland_Aufenthalt_Dauer_unbekannt"
+><value
+>Off</value
+></field
+><field name="Beatmung"
+><value
+>Off</value
+></field
+><field name="Bestaetiger-COVID-19_Kontakt"
+><value
+>Off</value
+></field
+><field name="Diabetes"
+><value
+>Off</value
+></field
+><field name="Durchfall"
+><value
+>Off</value
+></field
+><field name="Exposition_Ort"
+><value
+>Off</value
+></field
+><field name="Fieber"
+><value
+>Off</value
+></field
+><field name="Geschlecht"
+><value
+>Off</value
+></field
+><field name="Herz-Kreislauf"
+><value
+>Off</value
+></field
+><field name="Hospitalisierung#ja"
+><value
+>Off</value
+></field
+><field name="Hospitalisierung#nein"
+><value
+>Off</value
+></field
+><field name="Husten"
+><value
+>Off</value
+></field
+><field name="Hypertonie"
+><value
+>Off</value
+></field
+><field name="IPS"
+><value
+>Off</value
+></field
+><field name="Immunsuppression"
+><value
+>Off</value
+></field
+><field name="Kantonsarzt_Massnahmen"
+><value
+>Off</value
+></field
+><field name="Keine"
+><value
+>Off</value
+></field
+><field name="Keine_Symptome"
+><value
+>Off</value
+></field
+><field name="Kontakt_Andere"
+><value
+>Off</value
+></field
+><field name="Kontakt_Arbeit"
+><value
+>Off</value
+></field
+><field name="Kontakt_Familie"
+><value
+>Off</value
+></field
+><field name="Kontakt_Medizinpersonal"
+><value
+>Off</value
+></field
+><field name="Kontakt_Schule"
+><value
+>Off</value
+></field
+><field name="Krebs"
+><value
+>Off</value
+></field
+><field name="Medizinpersonal"
+><value
+>Off</value
+></field
+><field name="Nationalitaet"
+><value
+>Off</value
+></field
+><field name="Pneumonie"
+><value
+>Off</value
+></field
+><field name="Referenzlabor"
+><value
+>Off</value
+></field
+><field name="Reise_mit_Infektion"
+><value
+>Off</value
+></field
+><field name="TF"
+><value
+>Off</value
+></field
+></fields
+><ids original="49F8749F6772C948B9F087DA9418F56D" modified="5008D734978A45E3BC62D8A94431A16B"
+/></xfdf
+>
