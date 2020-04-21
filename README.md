@@ -18,7 +18,7 @@ There is another very similar activity, https://github.com/lakay/COVID-19_PDF-Re
 
 ### Required: Adobe Acrobat software and maybe MS Access
 
-With Adobe Acrobat you can easily edit the forms and import and export data to the form. Best way is over using the exporting and importing via an XML-File.
+With Adobe Acrobat you can easily edit the forms and import and export data to the form. Best way is over using the exporting and importing via an XML-File. For this go in Adobe Acrobat to the tools -> forms -> other actions -> forms administration -> exporting -> select *.xml (this is free form translated because I use a german version).
 
 MS Access allows very easy to import such an XML-File into a DB (data base). The only thing to have to take care is initially re declare the fields with bigger content, for example remark fields as "Langer Text" instead of "Short Text".
 
